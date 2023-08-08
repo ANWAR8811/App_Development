@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FontDemo</string>
+    <string name="text1">Hello i am text 1.</string>
+    <string name="text2">Hello i am text 2.</string>
+</resources>
