@@ -4,11 +4,8 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/CheckBox" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/CheckBoxDemo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ImageView" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/ImageViewDemo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ListViewFilter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ListViewFilterDemo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Project 1/ListViewFilterDemo" vcs="Git" />
   </component>
 </project>

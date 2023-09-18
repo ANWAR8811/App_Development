@@ -1,0 +1,188 @@
+<resources>
+    <string name="app_name">ExpandableListView</string>
+
+    <string-array name="abbreviation_list_header">
+        <item>AAC</item>
+        <item>AI</item>
+        <item>B2B</item>
+        <item>BASIC</item>
+        <item>CAD</item>
+        <item>CPU</item>
+        <item>DNS</item>
+        <item>DVD</item>
+        <item>EKG</item>
+        <item>ERP</item>
+        <item>FTP</item>
+        <item>HTML</item>
+        <item>ICU</item>
+        <item>IoT</item>
+        <item>JSON</item>
+        <item>JPEG</item>
+        <item>KPI</item>
+        <item>KVM</item>
+        <item>LAN</item>
+        <item>LMS</item>
+        <item>MIDI</item>
+        <item>MPEG</item>
+        <item>OCR</item>
+        <item>OS</item>
+        <item>PDF</item>
+        <item>PNG</item>
+        <item>QoS</item>
+        <item>RAM</item>
+        <item>RDBMS</item>
+        <item>ROM</item>
+        <item>SMTP</item>
+        <item>SQL</item>
+        <item>SSL</item>
+        <item>TCP</item>
+        <item>URL</item>
+        <item>USB</item>
+        <item>VGA</item>
+        <item>VPN</item>
+        <item>WAN</item>
+        <item>XML</item>
+        <item>XHR</item>
+        <item>YAML</item>
+        <item>ZIP</item>
+        <item>Zoology</item>
+    </string-array>
+
+
+    <string-array name="abbreviation_list_child">
+    <item>Advance Audio Coding
+    \n\nAAC is defined as Audio Coding which is able to provide better sound quality.
+    </item>
+        <item>Artificial Intelligence
+    \n\nAI refers to the programming installed in a machine which allows the machine to understand and operate in the modern world.
+    </item>
+        <item>Business-to-Business
+    \n\nB2B represents transactions and interactions between two businesses rather than between a business and individual consumers.
+    </item>
+        <item>Beginners All-purpose Symbolic Instruction Code
+    \n\nBASIC is a programming language designed for beginners to learn programming concepts.
+    </item>
+        <item>Computer-Aided Design
+    \n\nCAD is the use of computer technology to aid in the design and analysis of products and systems.
+    </item>
+        <item>Central Processing Unit
+    \n\nCPU is the primary component of a computer that performs instructions from software programs.
+    </item>
+        <item>Domain Name System
+    \n\nDNS translates human-readable domain names into IP addresses, enabling efficient web browsing.
+    </item>
+        <item>Digital Versatile Disc
+    \n\nDVD is a digital optical disc storage format that can be used for storing video, audio, and other data.
+    </item>
+        <item>Electrocardiogram
+    \n\nEKG, also known as ECG, is a test that measures the electrical activity of the heart.
+    </item>
+        <item>Enterprise Resource Planning
+    \n\nERP integrates business processes and data into a unified system to enhance efficiency.
+    </item>
+        <item>File Transfer Protocol
+    \n\nFTP is a standard network protocol used to transfer files from one host to another over a TCP-based network.
+    </item>
+        <item>Hypertext Markup Language
+    \n\nHTML is the standard markup language used to create web pages.
+    </item>
+        <item>Intensive Care Unit
+    \n\nICU is a specialized department in a hospital that provides care for critically ill patients.
+    </item>
+        <item>Internet of Things
+    \n\nIoT refers to the network of physical objects connected to the internet, enabling data exchange and automation.
+    </item>
+        <item>JavaScript Object Notation
+    \n\nJSON is a lightweight data interchange format used to transmit data between a server and a web application.
+    </item>
+        <item>Joint Photographic Experts Group
+    \n\nJPEG is a commonly used method of lossy compression for digital images.
+    </item>
+        <item>Key Performance Indicator
+    \n\nKPI is a measurable value that indicates how effectively a company is achieving its key business objectives.
+    </item>
+        <item>Kernel-based Virtual Machine
+    \n\nKVM is an open-source virtualization solution that enables running multiple virtual machines on a single host.
+    </item>
+        <item>Local Area Network
+    \n\nLAN is a network that connects computers and devices within a limited geographic area, such as a home or office.
+    </item>
+        <item>Learning Management System
+    \n\nLMS is a software application used to deliver, track, and manage online learning and training materials.
+    </item>
+        <item>Musical Instrument Digital Interface
+    \n\nMIDI is a protocol for communicating musical information between computers, synthesizers, and other devices.
+    </item>
+        <item>Moving Picture Experts Group
+    \n\nMPEG is a set of standards used for coding audio and video information in a digital compressed format.
+    </item>
+        <item>Optical Character Recognition
+    \n\nOCR is technology that converts different types of documents, such as scanned paper documents, PDF files, or images taken by a digital camera, into editable and searchable data.
+    </item>
+        <item>Operating System
+    \n\nOS is software that manages computer hardware, software resources, and provides services for computer programs.
+    </item>
+        <item>Portable Document Format
+    \n\nPDF is a file format developed by Adobe that captures all the elements of a printed document as electronic images that can be viewed, navigated, and printed from various devices.
+    </item>
+        <item>Portable Network Graphics
+    \n\nPNG is a raster graphics file format that supports lossless data compression, often used for images displayed on the web.
+    </item>
+        <item>Quality of Service
+    \n\nQoS refers to the performance levels of a network or computer system, ensuring optimal data transfer and service quality.
+    </item>
+        <item>Random Access Memory
+    \n\nRAM is a type of computer memory that provides high-speed data access to temporarily store data that the CPU is currently using or processing.
+    </item>
+        <item>Relational Database Management System
+    \n\nRDBMS is a type of database management system that stores and retrieves data organized in tables with rows and columns.
+    </item>
+        <item>Read-Only Memory
+    \n\nROM is a type of non-volatile memory used in computers and other electronic devices to store permanent or semi-permanent data.
+    </item>
+        <item>Simple Mail Transfer Protocol
+    \n\nSMTP is a protocol used to send email messages between servers, ensuring reliable email delivery.
+    </item>
+        <item>Structured Query Language
+    \n\nSQL is a domain-specific language used for managing and querying relational databases.
+    </item>
+        <item>Secure Sockets Layer
+    \n\nSSL is a security protocol that establishes an encrypted link between a web server and a browser, ensuring secure data transmission.
+    </item>
+        <item>Transmission Control Protocol
+    \n\nTCP is a core protocol of the internet protocol suite that facilitates reliable communication between network devices.
+    </item>
+        <item>Uniform Resource Locator
+    \n\nURL is the web address that specifies the location of a resource on the internet.
+    </item>
+        <item>Universal Serial Bus
+    \n\nUSB is a standard for connecting various devices to a computer using a common interface.
+    </item>
+        <item>Video Graphics Array
+    \n\nVGA is a video display standard that was the dominant connector type for computer monitors and displays in the 1990s and early 2000s.
+    </item>
+        <item>Virtual Private Network
+    \n\nVPN is a secure connection that allows users to access a private network, such as a corporate intranet, over a public network like the internet.
+    </item>
+        <item>Wide Area Network
+    \n\nWAN is a network that spans a larger geographic area, often connecting multiple smaller networks.
+    </item>
+        <item>eXtensible Markup Language
+    \n\nXML is a markup language used to encode documents in a format that is both human-readable and machine-readable.
+    </item>
+        <item>XMLHttpRequest
+    \n\nXHR is a JavaScript object that provides the functionality to transfer data between a web browser and a web server asynchronously.
+    </item>
+        <item>YAML Aint Markup Language
+    \n\nYAML is a human-readable data serialization format used for configuration files and data exchange between languages with different data structures.
+    </item>
+        <item>Zone Improvement Plan
+    \n\nZIP codes are a system of postal codes used by the United States Postal Service to efficiently route mail.
+    </item>
+        <item>Zoology
+    \n\nZoology is the scientific study of animals and their behavior, structure, physiology, classification, and distribution.
+    </item>
+    </string-array>
+
+
+</resources>

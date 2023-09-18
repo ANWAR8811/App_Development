@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AutolinkDemo</string>
+
+    <string name="autoLink_test">
+        Name: Rana Ahamed \n
+        Phone: +8801...... \n
+        Email: ranakrphone@gmail.com
+    </string>
+</resources>

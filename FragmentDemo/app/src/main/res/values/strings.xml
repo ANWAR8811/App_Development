@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ami_details">
+        \nName: Ami
+        \nAge: 4.5 billion
+        \nYou are already in contact with me always
+    </string>
+
+    <string name="tmi_details">
+        \nName: Tmi
+        \nAge: 1k years
+        \nYour mood will be good if you listen to me
+    </string>
+</resources>

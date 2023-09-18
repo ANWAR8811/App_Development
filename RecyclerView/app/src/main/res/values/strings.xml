@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="country_names">
+        <item>Afghanistan</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Sri Lanka</item>
+    </string-array>
+
+    <string-array name="country_description">
+        <item>A landlocked country in Central Asia.</item>
+        <item>A country in the Caucasus region of Eurasia.</item>
+        <item>A country in the Caucasus region of Eurasia.</item>
+        <item>An island country in the Persian Gulf.</item>
+        <item>A country in South Asia.</item>
+        <item>A landlocked country in South Asia.</item>
+        <item>The most populous country in the world.</item>
+        <item>The second most populous country in the world.</item>
+        <item>An island country in East Asia.</item>
+        <item>A landlocked country in South Asia.</item>
+        <item>A country in South Asia.</item>
+        <item>An island country in South Asia.</item>
+    </string-array>
+
+</resources>
